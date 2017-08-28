@@ -14,11 +14,11 @@
 
 测试集如下格式：
 
-![QQ图片20170718132721](.\images\QQ图片20170718132721.png)
+![QQ图片20170718132721](https://github.com/xiaoshuangzi/Bop2017/blob/master/images/QQ%E5%9B%BE%E7%89%8720170718132721.png)
 
 我们需要给测试集中每个问题的候选答案进行打分，分数越高越可能是正确的答案。
 
-评价标准是MRR  ![QQ图片20170718133603](.\images\QQ图片20170718133603.png)
+评价标准是MRR  ![QQ图片20170718133603](https://github.com/xiaoshuangzi/Bop2017/blob/master/images/QQ%E5%9B%BE%E7%89%8720170718133603.png)
 
 ## 二、资格赛模型
 
@@ -34,7 +34,7 @@
 
 ### 2、详细步骤
 
-![QQ图片20170718132601](.\images\QQ图片20170718132601.png)
+![QQ图片20170718132601](https://github.com/xiaoshuangzi/Bop2017/blob/master/images/QQ%E5%9B%BE%E7%89%8720170718132601.png)
 
 拿这个问题为例，我们首先利用jieba分词，然后生成词库，并有相对应的预先训练好的wordEmbedding。
 
