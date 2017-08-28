@@ -6,7 +6,7 @@
 
 训练集如下格式：
 
-![QQ图片20170718132601](Bop2017\images\QQ图片20170718132601.png)
+![QQ图片20170718132601](https://github.com/xiaoshuangzi/Bop2017/blob/master/images/QQ%E5%9B%BE%E7%89%8720170718132601.png)
 
 
 
